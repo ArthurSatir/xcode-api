@@ -1,0 +1,16 @@
+[
+    {
+    "id": "#01",
+    "date": "2026-02-19",
+    "title": "Sistem Update", 
+    "message": "MAJOR UPDATE",
+    "read": false
+    },
+  {
+    "id": "#02",
+    "date": "2025-09-07",
+    "title": "Sistem Rest API", 
+    "message": "Perubahan Design dan perbaikan bug",
+    "read": true
+  }
+]
